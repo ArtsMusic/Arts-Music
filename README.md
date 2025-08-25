@@ -1,2 +1,2 @@
-# Arts-Music
-A repository to store music for a music player.
+# Arts Music Player
+A repository to store releases and music for an upcoming HTML music player.
